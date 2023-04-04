@@ -154,7 +154,7 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobFSLocation",
-						"fileSystem": "syn3"
+						"fileSystem": "syn4"
 					},
 					"columnDelimiter": ",",
 					"escapeChar": "\\",
